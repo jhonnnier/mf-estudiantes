@@ -1,0 +1,39 @@
+.estudiantes-container {
+  max-width: 400px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.estudiantes-title {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.estudiantes-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.estudiantes-thead-row {
+  background: #e0e7ef;
+}
+
+.estudiantes-th {
+  padding: 8px;
+  border-bottom: 2px solid #bfc9d9;
+  text-align: left;
+  color: #34495e;
+}
+
+.estudiantes-tr {
+  border-bottom: 1px solid #eaeaea;
+}
+
+.estudiantes-td {
+  padding: 8px;
+  color: #222;
+}
